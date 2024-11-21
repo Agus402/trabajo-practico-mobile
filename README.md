@@ -1,4 +1,4 @@
-# Guía de Instalación y Configuración
+# Guía de Instalación
 
 El paso a paso para clonar e instalar el proyecto en tu maquina local:
 
